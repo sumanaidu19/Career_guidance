@@ -25,7 +25,7 @@ a{
     -webkit-text-stroke: 1px pink!important;;
 }
 .page1{
-    height:100vh;
+    height:100%;
     width: 100%;
     background-image: url('./images/backgroundpage1.jpg');
     background-repeat: no-repeat;
