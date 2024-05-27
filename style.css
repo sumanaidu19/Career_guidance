@@ -41,12 +41,13 @@ a{
 }
 
 .page1{
-    height:100vh;
+    height:100%;
     width: 100%;
     background-image: url('./images/backgroundpage1.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     z-index: 10;
+    padding-bottom:30px;
 }
 .page1 .slogan{
     padding-top: 12%;
@@ -374,7 +375,7 @@ p .line{
     text-align: center;
 }
 .contact-form{
-    height: 80vh;
+    height: 80%;
     width: 35%;
     border-radius: 10%;
     padding-left: 5%;
