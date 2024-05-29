@@ -816,6 +816,18 @@ button{
     color: aliceblue;
 }
 @media (max-width:768px){
+    .goback{
+    height: 45px;
+    width: 150px;
+    font-size: 25px;
+    font-weight: 700;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+    margin-left: 85%;
+    margin-top: 2%;
+    border-radius: 5px;
+    background-color: blue;
+    color: aliceblue;
+}
     .page1{
         overflow: hidden;
     }
