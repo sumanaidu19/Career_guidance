@@ -822,8 +822,9 @@ button{
     font-size: 25px;
     font-weight: 700;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
-    margin-left: 85%;
-    margin-top: 2%;
+    margin-left: 52%;
+    margin-top: 4%;
+    margin-right:2%;
     border-radius: 5px;
     background-color: blue;
     color: aliceblue;
