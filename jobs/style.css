@@ -707,6 +707,13 @@ button{
     border: 2px solid goldenrod;
     background-color: powderblue;
 }
+.card9{
+    text-align: center;
+}
+.card9 h2{
+     width:35px;
+     text-align: center;
+}
 .page2{
     height: 100%;
     width: 100%;
